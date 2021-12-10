@@ -34,3 +34,13 @@ body {
 #tekst a:hover {
     opacity: 0.6;
 }
+
+::-moz-selection {
+    background: orange;
+    color: #000;
+}
+
+::selection {
+    background: orange;
+    color: #000;
+}
