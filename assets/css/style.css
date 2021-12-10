@@ -44,3 +44,10 @@ body {
     background: orange;
     color: #000;
 }
+
+@media only screen and (max-width: 1081px) {
+    #tekst {
+        width: 95%;
+        margin: 0 auto;
+    }
+  }
